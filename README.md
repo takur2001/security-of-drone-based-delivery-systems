@@ -1,3 +1,14 @@
+## 🚀 Overview
+This project simulates a secure drone delivery system using modern cybersecurity and automation techniques.
+
+It includes:
+- AES-256 encryption for secure communication
+- SHA-256 hashing for data integrity
+- OTP-based authentication for delivery verification
+- Real-time attack simulation (GPS spoofing, signal jamming)
+
+The system demonstrates how AI-driven automation and security can be applied to real-world logistics and delivery systems.
+
 # Secure Drone Delivery System
 
 **Team**: Takur Sai Karthik & Satya Sai Kumar  
